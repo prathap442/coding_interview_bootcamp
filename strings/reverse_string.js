@@ -3,6 +3,5 @@ function reverseString(str){
 }
 
 console.log(reverseString("prathap"))
-export reverseString();
 
-module.exports = reverseString
+module.exports = reverseString;
