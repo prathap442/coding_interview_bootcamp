@@ -1,0 +1,1 @@
+the code is used to chec k if the string is able to the reversed and the the result appeaderd is equal .
